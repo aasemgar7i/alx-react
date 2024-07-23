@@ -1,1 +1,0 @@
-Setup webpack with plugins to serve
